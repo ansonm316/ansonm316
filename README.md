@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Anson, and I'm a Mechanical Engineering Student at the University of Waterloo.
+My name is Anson, and I'm a Mechanical Engineering Student at the University of Waterloo. <br />
 I'm interested in all things Python, C++, Data Science, and Engineering!
 
 - 🔭 I’m currently working on a sushi roll maker using Lego EV3 Mindstorm

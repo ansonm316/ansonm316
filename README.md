@@ -1,10 +1,15 @@
-## Hello there 👋
-My name is Anson, and I'm a Mechanical Engineering Student at the University of Waterloo. <br />
-I'm interested in all things Python, C++, Data Science, and Engineering!
+<h1 align="center">Hi 👋, I'm Anson Mou, and I'm a Mechanical Engineering Student at the University of Waterloo.</h1>
+<h3 align="center">I'm interested in all things Python, C++, Data Science, and Engineering!</h3>
 
-- 🔭 I’m currently working on a sushi roll maker using Lego EV3 Mindstorm
-- 🌱 I’m currently learning C++ & Python.
+- 🔭 I’m currently working on a **sushi roll maker on a Lego MINDSTORMS EV3**
+- 🌱 I’m currently learning **C++ & Python**
 - 🚀 I’m eager to join new projects and to grow my programming knowledge.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansonylm/), E-mail: amou@uwaterloo.ca
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ansonylm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansonylm" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
